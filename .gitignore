@@ -2,3 +2,5 @@
 *~
 *.sw?
 
+# output
+*.html
