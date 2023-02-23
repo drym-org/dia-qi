@@ -4,15 +4,17 @@
 			* visual syntax
 			* extensible syntax
 		* semantics
-			* flow-oriented semantics
-			* immutable data
-			* functional/composable programming
-			* multi-valued I/O
-			* variadic functions
-			* arrows
-			* sunyata logic
-			* point-free programming
-			* phrase structure
+			* essential
+				* flow-oriented semantics
+				* multi-valued I/O
+				* sunyata logic
+				* immutable data
+				* functional/composable programming
+			* incidental
+				* phrase structure
+				* variadic functions
+				* arrows
+				* point-free programming
 	* interop/ease of use
 		* embeddable language
 		* structural debugging
