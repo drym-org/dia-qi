@@ -15,7 +15,7 @@
 		* The Qi design challenge was organized []
 		* A weekly meetup for the project was started []
 		* The first library extending Qi functionality was written []
-		* The first package leveraging Qi was written []
+		* The first application leveraging Qi was written []
 		* There was a suggestion to write a tutorial []
 		* An interactive tutorial was written using racket templates []
 		* A theoretical connection between Qi and Arrows in category theory was drawn []
