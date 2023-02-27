@@ -14,10 +14,11 @@
 		* The idea of a Qi-themed event was suggested
 		* The Qi design challenge was organized
 		* A weekly meetup for the project was started
-		* The project benefited from general support from the Racket community
 		* The first library extending Qi functionality was written
+		* The first package leveraging Qi was written
 		* There was a suggestion to write a tutorial
 		* An interactive tutorial was written using racket templates
+		* A theoretical connection between Qi and Arrows in category theory was drawn
 	* Documentation
 		* A quickscript for interactive evaluation in DrRacket was added to support the Qi tutorial
 		* A broken link in the documentation was reported
@@ -40,6 +41,7 @@
 		* A recipe for hosting backup documentation in case the package index is unavailable was provided
 		* The backup docs workflow following the recipe was added
 		* The repo was migrated to an organization account
+		* Technical support was provided to Qi users
 	* Implementation
 		* The core macro was refactored into separate expansion and compilation stages
 		* Macro extensibility
