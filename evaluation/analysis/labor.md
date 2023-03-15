@@ -21,6 +21,7 @@
 		* A theoretical connection between Qi and Arrows in category theory was drawn
 	* Documentation
 		* A quickscript for interactive evaluation in DrRacket was added to support the Qi tutorial
+		* Improvements were made to a Vim plugin to better support the Qi tutorial
 		* A broken link in the documentation was reported
 		* There was a suggestion to create a wiki for Qi
 		* The wiki was created
@@ -28,7 +29,7 @@
 		* Documentation was written for Qi
 		* Some formatting and typos in the docs were fixed
 	* Improving usability / ease of adoption:
-		* Racket templates
+		* Distribution
 			* There was a suggestion to distribute a Qi template using racket templates
 			* There was a suggestion to decompose the package into lib/test/doc packages for more flexible development and distribution
 			* The package was decomposed into lib/test/doc packages
@@ -37,7 +38,6 @@
 			* A quickscript for entering unicode in DrRacket was written
 			* A flow-oriented debugger was added
 		* The package config was modified so that Qi appears in the languages section of the docs
-		* CI was set up for the project repository
 		* A recipe for hosting backup documentation in case the package index is unavailable was provided
 		* The backup docs workflow following the recipe was added
 		* The repo was migrated to an organization account
