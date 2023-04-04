@@ -12,4 +12,4 @@
        * relation [10%]
        * racket-collections [10%]
        * metapict [12.5%]
-       * Greg's Makefile for Racket projects [15%]
+       * greg-racket-makefile : Greg's Makefile for Racket projects [15%]
