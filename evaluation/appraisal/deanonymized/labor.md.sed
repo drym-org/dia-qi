@@ -1,9 +1,10 @@
 s/Performance benchmarking was added to CI/Sid added performance benchmarking to CI/
 s/The wiki was created/Sid created a wiki/
-s/"First class" macro extensibility was implemented, allowing users to seamlessly extend the syntax of the language/Michael and Sid implemented "first class" macro extensibility (based on Michael et al's paper), allowing users to seamlessly extend the syntax of the language/
 s/The name clos was suggested for this form/Soegaard suggested the name clos for this form/
 s/The fanout PR was reviewed/Ben reviewed the fanout PR/
 s/A way to measure load-time latency was suggested/Sarna suggested a way to measure load-time latency/
+s/"First class" macro extensibility was implemented, allowing users to seamlessly extend the syntax of the language/Michael and Sid implemented "first class" macro extensibility (based on Michael et al's paper), allowing users to seamlessly extend the syntax of the language/
+s/The clos form was implemented/Sid implemented the clos form/
 s/The language was designed/Sid designed the language/
 s/There was a suggestion to distribute a Qi template using racket templates/Stephen suggested distributing a Qi template using racket templates/
 s/The partition implementation was optimized/Ben optimized the partition implementation/

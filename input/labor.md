@@ -12,6 +12,7 @@
 * Ben solved Advent of Code using Qi
 * Ben provided a design example to motivate adding closures (the clos form) to Qi
 * Soegaard suggested the name clos for this form
+* Sid implemented the clos form
 * Jesse and William suggested writing a tutorial
 * Stephen wrote a quickscript for entering unicode in DrRacket
 * Stephen suggested distributing a Qi template using racket templates

@@ -12,6 +12,7 @@
 * Advent of Code was solved using Qi
 * A design example was provided to motivate adding closures (the clos form) to Qi
 * The name clos was suggested for this form
+* The clos form was implemented
 * There was a suggestion to write a tutorial
 * A quickscript for entering unicode in DrRacket was written
 * There was a suggestion to distribute a Qi template using racket templates

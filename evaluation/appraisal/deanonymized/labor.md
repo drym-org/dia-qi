@@ -57,7 +57,7 @@
 			* Clos form [14%]
 				* Ben provided a design example to motivate adding closures (the clos form) to Qi [45%]
 				* Soegaard suggested the name clos for this form [10%]
-				* The clos form was implemented [45%]
+				* Sid implemented the clos form [45%]
 			* Threading form [11%]
 				* Ben reported a confusing error message in the threading form and suggested a way to handle it [20%]
 				* Sid implemented Ben's suggested error message fix [20%]
