@@ -64,9 +64,9 @@
 				* An elusive bug was identified that was causing performance degradation in the threading form
 				* A hygiene issue related to the same bug was identified that could have caused other bugs in the future
 			* Feedback form design improvements
-				* An example implementation to motivate design improvements in feedback was provided
-				* The design of feedback was improved
-				* The feedback PR was reviewed
+				* An illustrative example to motivate design improvements to the `feedback` form of the language was provided
+				* The design of `feedback` was improved
+				* The PR improving the design of `feedback` was reviewed
 			* Restricting fancy-app
 				* There was a suggestion to restrict fancy-app's (a templatized function application library) scope in Qi to avoid tricky bugs in handling user input
 				* fancy-app was restricted to just the fine-grained application form

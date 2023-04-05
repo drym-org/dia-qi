@@ -16,7 +16,7 @@ s/There was a suggestion to decompose the package into lib\/test\/doc packages f
 s/A weekly meetup for the project was started/Michael and Sid started a weekly meetup for the project/
 s/It was pointed out that fanout does not accept arbitrary Racket expressions for N/Ben pointed out that fanout does not accept arbitrary Racket expressions for N/
 s/Advent of Code was solved using Qi/Ben solved Advent of Code using Qi/
-s/An example implementation to motivate design improvements in feedback was provided/1e1001 provided an illustrative example to motivate design improvements to the `feedback` form of the language/
+s/An illustrative example to motivate design improvements to the `feedback` form of the language was provided/1e1001 provided an illustrative example to motivate design improvements to the `feedback` form of the language/
 s/The initial author received expert feedback on drafts of the talk/Jay gave feedback on Sid's talk/
 s/A quickscript for interactive evaluation in DrRacket was added to support the Qi tutorial/Laurent added a quickscript for interactive evaluation in DrRacket to support the Qi tutorial/
 s/A broken link in the documentation was reported/Stephen reported a broken link in the documentation/
@@ -38,7 +38,7 @@ s/A quickscript for entering unicode in DrRacket was written/Stephen wrote a qui
 s/fanout was modified to support arbitrary expressions for N and have an optimized implementation/Sid modified fanout to support arbitrary expressions for N and have an optimized implementation/
 s/An interactive tutorial was written using racket templates/Sid wrote an interactive tutorial using racket templates/
 s/The performance benchmarks were audited for accuracy/Michael did an audit of the performance benchmarks for accuracy/
-s/The design of feedback was improved/Sid improved the design of `feedback`/
+s/The design of `feedback` was improved/Sid improved the design of `feedback`/
 s/An early adopter advocated for the project (1)/Ben used and advocated for Qi/
 s/Documentation was written for Qi/Sid wrote docs for Qi/
 s/The ability to support the _ template in the function position was added/Noah added the ability to support the _ template in the function position/
@@ -61,7 +61,7 @@ s/There was a suggestion to write a tutorial/Jesse and William suggested writing
 s/A flow-oriented debugger was added/Sid added a flow-oriented debugger/
 s/An elusive bug was identified that was causing performance degradation in the threading form/Nia identified an elusive bug causing performance degradation in the threading form/
 s/Some improvements were suggested to reduce memory consumption in building docs/Soegaard suggested some improvements to reduce memory consumption in building docs/
-s/The feedback PR was reviewed/Ben reviewed the PR improving the design of `feedback`/
+s/The PR improving the design of `feedback` was reviewed/Ben reviewed the PR improving the design of `feedback`/
 s/A hygiene issue related to the same bug was identified that could have caused other bugs in the future/Michael identified a hygiene issue related to the same bug that could have caused other bugs in the future/
 s/Improvements to switch were implemented/Sid implemented improvements to switch/
 s/A Q&A was held after the talk/Jay led the Q&A for the talk/
