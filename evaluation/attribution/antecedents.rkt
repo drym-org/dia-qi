@@ -14,14 +14,14 @@
   ;; suffer a "#%datum not bound in the transformer environment" error.
   #:with runtime-path-define-ideas
   (datum->syntax #'ideas (syntax-e #'(define-runtime-path ideas-p (#%datum . ideas))) #'ideas)
-  #:with runtime-path-define-antecdents
-  (datum->syntax #'antecdents (syntax-e #'(define-runtime-path antecdents-p (#%datum . antecedents))) #'antecdents)
+  #:with runtime-path-define-antecedents
+  (datum->syntax #'antecedents (syntax-e #'(define-runtime-path antecedents-p (#%datum . antecedents))) #'antecedents)
   (#%module-begin
    (provide export)
    runtime-path-define-ideas
-   runtime-path-define-antecdents
+   runtime-path-define-antecedents
    (define tree (read-idea-attribution-tree ideas-p))
-   (define antes (read-idea-antecedents-tree antecdents-p))
+   (define antes (read-idea-antecedents-tree antecedents-p))
    (unless (validate-appraisal tree)
      (error 'validate-appraisal "bad appraisal: ~a" tree))
    (define export (make-hash))
