@@ -5,6 +5,7 @@ s/The fanout PR was reviewed/Ben reviewed the fanout PR/
 s/A way to measure load-time latency was suggested/Sarna suggested a way to measure load-time latency/
 s/"First class" macro extensibility was implemented, allowing users to seamlessly extend the syntax of the language/Michael and Sid implemented "first class" macro extensibility (based on Michael et al's paper), allowing users to seamlessly extend the syntax of the language/
 s/The clos form was implemented/Sid implemented the clos form/
+s/An early adopter advocated for the project (2)/Cassie used and advocated for Qi/
 s/The language was designed/Sid designed the language/
 s/There was a suggestion to distribute a Qi template using racket templates/Stephen suggested distributing a Qi template using racket templates/
 s/The partition implementation was optimized/Ben optimized the partition implementation/
@@ -38,11 +39,13 @@ s/fanout was modified to support arbitrary expressions for N and have an optimiz
 s/An interactive tutorial was written using racket templates/Sid wrote an interactive tutorial using racket templates/
 s/The performance benchmarks were audited for accuracy/Michael did an audit of the performance benchmarks for accuracy/
 s/The design of feedback was improved/Sid improved the design of `feedback`/
+s/An early adopter advocated for the project (1)/Ben used and advocated for Qi/
 s/Documentation was written for Qi/Sid wrote docs for Qi/
 s/The ability to support the _ template in the function position was added/Noah added the ability to support the _ template in the function position/
 s/Some formatting and typos in the docs were fixed/Noah fixed some formatting and typos in the docs/
 s/A confusing error message in the threading form was reported and a way to handle it was suggested/Ben reported a confusing error message in the threading form and suggested a way to handle it/
 s/A Developer's Guide containing developer documentation was written/Sid wrote a Developer's Guide containing developer documentation/
+s/An early adopter advocated for the project (3)/Stephen used and advocated for Qi/
 s/These tools were used to identify and remove all heavy dependencies and dramatically reduce load-time latency/Ben used the tools to identify and remove all heavy dependencies and dramatically reduce load-time latency/
 s/Many options for proper macro extensibility were suggested/Michael suggested many options for proper macro extensibility/
 s/Some bugs in switch were fixed/Sid fixed some bugs in switch/
@@ -77,7 +80,6 @@ s/The backup docs workflow following the recipe was added/Sid added the backup d
 s/There was a suggestion to restrict fancy-app's (a templatized function application library) scope in Qi to avoid tricky bugs in handling user input/Nia suggested restricting fancy-app's scope in Qi to avoid tricky bugs in handling user input/
 s/The load-time latency PR was reviewed/Ben reviewed the load-time latency PR/
 s/The first application leveraging Qi was written/Ben wrote the first application leveraging Qi/
+s/Support for keyword arguments to add bindings in lambda forms of the language was added/Noah added support for keyword arguments to add bindings in lambda forms of the language/
 s/There was a suggestion to use indirect documentation links to reduce build times/Sorawee and Jack suggested using indirect documentation links to reduce build times/
 s/The number of dependencies was reduced/Ben reduced the number of dependencies/
-s/An early adopter advocated for the project/Stephen used and advocated for Qi/
-s/Support for keyword arguments to add bindings in lambda forms of the language was added/Noah added support for keyword arguments to add bindings in lambda forms of the language/

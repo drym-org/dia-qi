@@ -6,9 +6,9 @@
 * A Q&A was held after the talk
 * Improvements to the switch form were suggested
 * Improvements to switch were implemented
-* An early adopter advocated for the project
-* An early adopter advocated for the project
-* An early adopter advocated for the project
+* An early adopter advocated for the project (1)
+* An early adopter advocated for the project (2)
+* An early adopter advocated for the project (3)
 * Advent of Code was solved using Qi
 * A design example was provided to motivate adding closures (the clos form) to Qi
 * The name clos was suggested for this form
