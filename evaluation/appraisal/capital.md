@@ -1,6 +1,6 @@
 * Qi [100%]
    * Core/Platform [45%]
-       * The platform on which Qi is built []
+       * The platform on which Qi is built [100%]
    * Initial Implementation [35%]
        * A library providing a stack data structure that was used in the initial implementation of the `block` form and is no longer used [40%]
        * A macro from a utility library that was used to define aliases for syntactic forms in the initial implementation and is no longer used [30%]

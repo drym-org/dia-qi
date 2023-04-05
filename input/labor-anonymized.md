@@ -1,23 +1,24 @@
 * The language was designed
 * The initial implementation was written
 * The initial author was invited to give a talk at RacketCon
-* The initial author received feedback on drafts of the talk
+* The initial author received expert feedback on drafts of the talk
 * The initial author gave a talk at RacketCon
 * A Q&A was held after the talk
 * Improvements to the switch form were suggested
 * Improvements to switch were implemented
-* An early adopter advocated for the project
-* An early adopter advocated for the project
-* An early adopter advocated for the project
+* An early adopter advocated for the project (1)
+* An early adopter advocated for the project (2)
+* An early adopter advocated for the project (3)
 * Advent of Code was solved using Qi
 * A design example was provided to motivate adding closures (the clos form) to Qi
 * The name clos was suggested for this form
+* The clos form was implemented
 * There was a suggestion to write a tutorial
 * A quickscript for entering unicode in DrRacket was written
 * There was a suggestion to distribute a Qi template using racket templates
 * An interactive tutorial was written using racket templates
 * A quickscript for interactive evaluation in DrRacket was added to support the Qi tutorial
-* Improvements were made to a Vim plugin to better support the Qi tutorial
+* Improvements were made to a Vim-oriented demo language to better support the Qi tutorial
 * There was a suggestion to decompose the package into lib/test/doc packages for more flexible development and distribution
 * The package was decomposed into lib/test/doc packages
 * A flow-oriented debugger was added
@@ -33,9 +34,9 @@
 * A theoretical connection between Qi and Arrows in category theory was drawn.
 * The idea of a Qi-themed event was suggested
 * The Qi design challenge was organized
-* An illustrative example to motivate design improvements to the `feedback` form of the language was provided
-* The design of `feedback` was improved
-* The PR improving the design of `feedback` was reviewed
+* An example implementation to motivate design improvements in feedback was provided
+* The design of feedback was improved
+* The feedback PR was reviewed
 * There was a suggestion to restrict fancy-app's (a templatized function application library) scope in Qi to avoid tricky bugs in handling user input
 * fancy-app was restricted to just the fine-grained application form
 * The fancy-app PR was reviewed
