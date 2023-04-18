@@ -5,7 +5,7 @@
 			* extensible syntax [Racket, Scheme, Lisp, Rash, Ballantyne et al 2020]
 		* semantics []
 			* essential []
-				* flow-oriented semantics [Unix pipelines, Threading macro, pipeR]
+				* flow-oriented semantics [Unix pipelines, Threading macro, pipeR, Hsiao-Peng et. al. 1999]
 				* multi-valued I/O [Verilog, VHDL, Scheme, Racket]
 				* sunyata logic [Kasivajhula 2014-]
 				* immutable data [Clojure, Haskell, Scala, Erlang]
