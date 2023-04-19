@@ -22,13 +22,10 @@ $(DEANONYMIZED_OUT): $(DEANONYMIZED_IN)
 ATTRIBUTION_IN = $(DEANONYMIZED_OUT) \
                  evaluation/appraisal/ideas.md \
                  evaluation/antecedents/ideas.md \
-                 evaluation/attribution/antecedents.rkt \
-                 evaluation/attribution/attribution.rkt \
                  evaluation/attribution/capital.rkt \
                  evaluation/attribution/ideas.rkt \
                  evaluation/attribution/labor.rkt \
                  evaluation/attribution/synthesis.rkt \
-                 evaluation/attribution/tree-parser.rkt \
 
 .PHONY: attribute
 attribute: evaluation/attribution/attribution.rktd
