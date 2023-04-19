@@ -1,0 +1,3 @@
+Object:
+  URL: https://github.com/drym-org/qi/
+  Current up to: 067cb7c0c51fe3d38aceb7a1bba1a9092c677298

@@ -2,3 +2,8 @@
 *~
 *.sw?
 
+# output
+*.html
+
+# Racket
+compiled/
