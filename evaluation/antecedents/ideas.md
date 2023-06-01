@@ -1,3 +1,5 @@
+#lang abe/antecedents2 antecedents-attributions ["../appraisal/ideas.md" ideas]
+
 * Qi []
 	* DSL []
 		* syntax []

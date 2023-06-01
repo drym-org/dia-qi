@@ -1,3 +1,5 @@
+#lang abe/attribution2 capital-attributions
+
 * Qi [100%]
    * Core/Platform [45%]
        * The platform on which Qi is built [100%]

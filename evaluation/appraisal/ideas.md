@@ -1,3 +1,5 @@
+#lang abe/ideas2 ideas
+
 * Qi [100%]
   * DSL [90%]
     * syntax [25%]

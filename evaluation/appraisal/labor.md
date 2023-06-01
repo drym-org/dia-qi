@@ -1,3 +1,5 @@
+#lang abe/attribution2 labor-attributions
+
 * Qi [100%]
 	* Initial work / foundation [25%]
 		* The language was designed [50%]
