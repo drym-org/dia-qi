@@ -22,9 +22,8 @@ $(DEANONYMIZED_OUT): $(DEANONYMIZED_IN)
 ATTRIBUTION_IN = $(DEANONYMIZED_OUT) \
                  evaluation/appraisal/ideas.md \
                  evaluation/antecedents/ideas.md \
-                 evaluation/attribution/capital.rkt \
-                 evaluation/attribution/ideas.rkt \
-                 evaluation/attribution/labor.rkt \
+                 evaluation/appraisal/deanonymized/capital.md \
+                 evaluation/appraisal/deanonymized/labor.md \
                  evaluation/attribution/synthesis.rkt \
 
 .PHONY: attribute
